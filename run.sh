@@ -1,0 +1,1 @@
+jekyll serve --livereload --source app/ --destination app/_site/

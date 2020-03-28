@@ -1,0 +1,8 @@
+app/_site
+.sass-cache
+.jekyll-metadata
+node_modules/
+app/.jekyll-cache
+app/gamemaker
+app/ue4
+app/cpp-ue4
